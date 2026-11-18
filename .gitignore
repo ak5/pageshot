@@ -1,0 +1,16 @@
+node_modules/
+.pnpm-store/
+.output/
+.wxt/
+.env.dev-slot
+coverage/
+playwright-report/
+test-results/
+web-ext.config.ts
+.DS_Store
+/tmp/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
